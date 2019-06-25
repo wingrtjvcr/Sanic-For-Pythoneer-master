@@ -1,0 +1,14 @@
+# file
+*.pyc
+*.log
+tags
+.DS_Store
+
+# dir
+__pycache__/
+.vscode/
+_build/
+_static/
+.cache/
+_templates/
+.idea/

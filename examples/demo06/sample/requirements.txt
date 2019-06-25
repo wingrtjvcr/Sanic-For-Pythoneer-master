@@ -1,0 +1,8 @@
+asyncio_redis
+jinja2
+feedparser
+sanic
+aiocache
+pytest-sanic
+locustio
+gunicorn
